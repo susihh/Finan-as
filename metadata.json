@@ -1,0 +1,6 @@
+{
+  "name": "Organizador Financeiro e Investimentos",
+  "description": "App completo para controle de despesas, organização do salário (método 50/30/20) e simulador de investimentos com juros compostos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
